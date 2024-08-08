@@ -47,6 +47,11 @@ APP_URL = localhost:3000/
 - npx sequelize db:create
 - npx sequelize db:migrate
 
+6. **Once setup is done, start the project with this command:**
+  ```
+  npm start
+  ```
+
 ## API Endpoints
 
 ### Employee Endpoints
