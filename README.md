@@ -16,7 +16,7 @@ The Employee Management System is a Node.js application designed to manage emplo
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/employee-management-system.git
+   git clone https://github.com/i-am-anurag/employee-management-system.git
    cd employee-management-system
 
 2. **Install dependency:**
